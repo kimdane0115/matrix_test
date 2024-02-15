@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148171953958",
+    "project_id": "flutter-template-a7bdb",
+    "storage_bucket": "flutter-template-a7bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148171953958:android:a5dd7b2d6f92e8ee4913e7",
+        "android_client_info": {
+          "package_name": "com.kimdane.matrix_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxW2JPBjc0zTOhOsSs86TjheeLEkT0H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
